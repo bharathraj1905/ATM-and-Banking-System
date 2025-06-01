@@ -1,35 +1,22 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
-
+# Reg No:212222230019
+# Name:BARATHRAJ B
 
 # AIM:
 To develop the ATM and Banking System using Star UML
 
 # Problem Statement:
-1.Banks need to provide fast, secure, and self-service access to basic banking functionalities.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Manual banking for simple tasks (like cash withdrawal or balance inquiry) leads to long queues and inefficient use of bank staff.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.There is a lack of consistent and secure user authentication in some older systems.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.Existing ATM systems may not be user-friendly or may lack multilingual support.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.Customers require 24/7 access to basic banking services without depending on bank working hours.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
-6.A reliable ATM software system is needed to:
-
-7.Allow users to securely access their accounts using ATM cards and PIN.
-
-8.Enable operations like cash withdrawal, balance inquiry, mini statement printing, and PIN change.
-
-9.Ensure real-time processing and data consistency with the core banking system.
-
-10.Provide a simple and intuitive user interface.
-
-
-# UML DIAGRAMS
+UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
@@ -49,10 +36,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
-
+![Screenshot 2025-05-19 133102](https://github.com/user-attachments/assets/8fd03e86-7d86-490b-94b2-58e9fe5bd1eb)
 
 # CLASS DIAGRAM
 
@@ -68,6 +52,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![Screenshot 2025-05-19 135306](https://github.com/user-attachments/assets/359c9d5f-e311-4371-af04-2b61df96facb)
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +62,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![442500566-284e70a4-3918-4c8a-ac21-c3841b47264d](https://github.com/user-attachments/assets/907da74a-11ac-4efa-9f91-27a6f5d05ce2)
 
 
 
@@ -89,6 +76,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![442500583-42883ea9-730f-4672-9db2-df910f964355](https://github.com/user-attachments/assets/0f272def-b203-4811-973a-10441fdfdf54)
 
 
 
@@ -106,6 +94,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![image](https://github.com/user-attachments/assets/78eb5adc-d7da-4a7d-99c5-70557ac8931c)
 
 
 
@@ -128,6 +117,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![image](https://github.com/user-attachments/assets/b93e9377-e5bd-499a-a9a8-e8e14c81c725)
 
 
 
@@ -135,4 +125,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
